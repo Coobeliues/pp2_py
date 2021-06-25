@@ -1,0 +1,1 @@
+print((float(input())%30)*2/5*30)
