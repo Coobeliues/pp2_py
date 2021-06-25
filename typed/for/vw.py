@@ -10,4 +10,8 @@ while n1:
     elif n1 < n2: inc, dec = inc + 1, 1        
     else: inc = dec = 1
     n1 = n2
+<<<<<<< HEAD
 print(m)
+=======
+print(format(m))
+>>>>>>> origin/main
