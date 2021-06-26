@@ -13,3 +13,5 @@ elif n<2:
     exit()
 if primera(n)==False: print("NO")
 else: print("YES")
+
+#nice
