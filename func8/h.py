@@ -1,9 +1,5 @@
-n=int(input())
-m=int(input())
-b=min(m,n)
-for i in range(2,b):
-    if m%i==0 and n%i==0:
-        m/=i
-        n/=i
-        i-=1
-print(n, m)
+import math
+def reduce_fraction(n,m):
+    k = math.gcd(n,m)
+    print (n//k, m//k)
+reduce_fraction(int(input()), int(input()))
