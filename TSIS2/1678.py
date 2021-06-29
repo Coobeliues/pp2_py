@@ -18,3 +18,9 @@ class Solution(object):
                 i+=1
                 continue
         return res
+
+# class Solution:
+#     def interpret(self, command: str) -> str:
+#         s = command.replace("()","o")
+#         s = s.replace("(al)","al")
+#         return s
