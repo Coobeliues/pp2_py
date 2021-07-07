@@ -2,19 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c0cf4ef-7a48-43a4-8222-632bc825d256" name="Default Changelist" comment="ни шта">
-      <change afterPath="$PROJECT_DIR$/RegEx/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegEx/emal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegEx/i.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegEx/o.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf_dict+set16/3756.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf_dict+set16/3757.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf_dict+set16/3758.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf_dict+set16/3759.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf_dict+set16/3761.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf_dict+set16/3762.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inf_dict+set16/3763.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf_dict+set16/3755.py" beforeDir="false" afterPath="$PROJECT_DIR$/inf_dict+set16/3755.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf_dict+set16/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/inf_dict+set16/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/13/abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/13/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/test11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task1/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task2/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task2/qwerty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS5/task2/tarantino.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,12 +79,15 @@
       <recent name="G:\pp2_py\intro" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS5\task2" />
+      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS5\task2\fold" />
+      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS5\task2\folder" />
+      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS5\task1\13" />
       <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS4\task1" />
-      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\inf_arr9" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.detect_float">
-    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.tarantino (1)">
+    <configuration name="20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp2_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS4/task2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS5/task1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS4\task2\a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TSIS5/task1/20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp2_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS4/task2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS5/task1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS4\task2\hex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TSIS5/task1/21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="phone_nums" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="qwerty" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp2_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS4/task2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS5/task2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS4\task2\phone_nums.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TSIS5/task2/qwerty.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rome_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tarantino (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp2_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS4/task2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS5/task2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS4\task2\rome_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TSIS5/task2/tarantino.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tarantino" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp2_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +179,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS5/task2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS4\task1\task_1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS5\task2\tarantino.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tarantino" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pp2_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS5/task2/fold" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS5\task2\tarantino.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.detect_float" />
-        <item itemvalue="Python.hex" />
-        <item itemvalue="Python.rome_num" />
-        <item itemvalue="Python.phone_nums" />
-        <item itemvalue="Python.task_1" />
+        <item itemvalue="Python.tarantino (1)" />
+        <item itemvalue="Python.tarantino (1)" />
+        <item itemvalue="Python.tarantino" />
+        <item itemvalue="Python.qwerty" />
+        <item itemvalue="Python.21" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625504351332</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ни шта">
+      <created>1625505747862</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1625505747862</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
