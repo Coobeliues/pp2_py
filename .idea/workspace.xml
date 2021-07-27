@@ -2,36 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c0cf4ef-7a48-43a4-8222-632bc825d256" name="Default Changelist" comment="ни шта">
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/13/abc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/13/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/test11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task1/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task2/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task2/qwerty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSIS5/task2/tarantino.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS6/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS7/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSIS7/ogg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/endterm/h_lion/click2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/endterm/h_lion/collect2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/endterm/h_lion/complete2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/endterm/h_lion/loosing2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/endterm/h_lion/oshibka2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/endterm/h_lion/we2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/endterm/snake/123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/endterm/snake/level_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/endterm/snake/level_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/endterm/snake/pr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midsummer/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midsummer/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midsummer/c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midsummer/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midsummer/e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midsummer/ee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midsummer/f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midsummer/ff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midsummer/g.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midsummer/h.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midsummer/hh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midsummer/i.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midsummer/j.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midsummer/jj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/h.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/i.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg120/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg120/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg120/bdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg120/c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg120/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg120/e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg120/f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg120/g.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg120/h.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg120/i.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg120/i.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg220/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg220/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg220/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg220/e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg220/f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg220/g.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg220/h.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg220/h4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg220/i.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg220/i.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg220/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midg220/j.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midv521/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midv521/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midv521/c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midv521/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midv521/d1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midv521/d2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midv521/e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midv521/f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/midv521/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/cc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/g.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/i.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/j.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/l.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/m.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/p.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/r.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/s.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/u.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/v.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/w.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/pr2/y.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/x.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pract/xx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/pg/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/pract/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/pract/3d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/pract/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/pract/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/pract/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/pract/ddd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/pract/e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/pract/с.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/sn/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/sn/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame/sn/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pp2_py.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pp2_py.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf_arr9/3828.py" beforeDir="false" afterPath="$PROJECT_DIR$/inf_arr9/3828.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +129,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectId" id="1uGGpWGIiR0QA8wzWGqeTc0Utqm" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -68,26 +143,31 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/inf_dict+set16" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/endterm/h_lion" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\endterm\h_lion" />
+      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\endterm\h_lion\sounds" />
+      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\pygame\sn" />
       <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\inf_dict+set16" />
       <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS3\part1[9](lists)" />
-      <recent name="G:\pp2_py\intro" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS5\task2" />
-      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS5\task2\fold" />
-      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS5\task2\folder" />
-      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS5\task1\13" />
-      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS4\task1" />
+      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\endterm\h_lion" />
+      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\endterm\h_lion\sounds" />
+      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\endterm\snake" />
+      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py" />
+      <recent name="C:\Users\Nitro5\Documents\Code\pp2_py\pygame" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tarantino (1)">
-    <configuration name="20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.pr (1)">
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp2_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS5/task1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/endterm/h_lion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TSIS5/task1/20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/endterm/h_lion/ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pr (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp2_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +196,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS5/task1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/endterm/snake" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TSIS5/task1/21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/endterm/snake/pr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="qwerty" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp2_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +217,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS5/task2" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TSIS5/task2/qwerty.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/script.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tarantino (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="we" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp2_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +238,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS5/task2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/endterm/h_lion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TSIS5/task2/tarantino.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/endterm/h_lion/we.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tarantino" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="we2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pp2_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,32 +259,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS5/task2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/endterm/h_lion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS5\task2\tarantino.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tarantino" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pp2_py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSIS5/task2/fold" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Nitro5\Documents\Code\pp2_py\TSIS5\task2\tarantino.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/endterm/h_lion/we2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tarantino (1)" />
-        <item itemvalue="Python.tarantino (1)" />
-        <item itemvalue="Python.tarantino" />
-        <item itemvalue="Python.qwerty" />
-        <item itemvalue="Python.21" />
+        <item itemvalue="Python.pr (1)" />
+        <item itemvalue="Python.we2" />
+        <item itemvalue="Python.we" />
+        <item itemvalue="Python.ex" />
+        <item itemvalue="Python.script" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +375,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625505747862</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ни шта">
+      <created>1625638774893</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1625638774893</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ни шта">
+      <created>1625638805165</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1625638805165</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
