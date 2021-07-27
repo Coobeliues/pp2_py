@@ -56,8 +56,8 @@ class Block2(pygame.sprite.Sprite):
         self.rect.x = random.randrange(SCREEN_WIDTH)
 
     def update(self):
-        self.rect.y += 1
-
+        self.rect.y += random.randint(-1, 2)
+        # self.rect.y = random.randint(-1, 1)
         if self.rect.y > SCREEN_HEIGHT + self.rect.height:
             self.reset_pos_eat()
 
