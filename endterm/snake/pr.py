@@ -8,6 +8,7 @@ pygame.init()
 surface = pygame.display.set_mode((800, 800))
 img = pygame.image.load('123.jpg').convert()
 a2, b2, c2, d2 = [], [], [], []
+total = 0
 
 
 def lvl():
@@ -32,7 +33,7 @@ def lvl():
 
 def mainer():
     pygame.display.init()
-    global surface, img
+    global surface, img, total
     pygame.font.init()
     RES = 800
     SIZE = 40
@@ -78,6 +79,7 @@ def mainer():
                 render_end = font_end.render('GAME OVER!', True, pygame.Color('orange'))
                 surface.blit(render_end, (RES // 2 - 200, RES // 3))
                 pygame.display.flip()
+                total = score
                 print("Your score: " + str(score))
                 done = False
                 break
@@ -106,6 +108,7 @@ def mainer():
             render_end = font_end.render('GAME OVER!', True, pygame.Color('orange'))
             surface.blit(render_end, (RES // 2 - 200, RES // 3))
             pygame.display.flip()
+            total = score
             print("Your score: " + str(score))
             break
 
@@ -147,6 +150,8 @@ def main():
     while True:
         mainer()
         if not play_again():
+            with open('scores.txt', 'a') as file:
+                file.writelines('score ' + str(total) + ' level ' + s)
             return
 
 
